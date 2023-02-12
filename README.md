@@ -1,3 +1,3 @@
 # Welcome!
 
-- Click here[rabbithole.html]
+Go here [rabbit.hole](rabbithole.html)
